@@ -1,6 +1,6 @@
 # Portfólio de Projetos
 
-Meu nome é Thomas Salomão e sou estudante de Engenharia de Computação.
+Meu nome é Thomas Salomão e sou estudante de Engenharia de Computação do quarto período da PUCPR.
 
 Este repositório reúne alguns exercícios e projetos desenvolvidos durante meus estudos de programação em C.
 
